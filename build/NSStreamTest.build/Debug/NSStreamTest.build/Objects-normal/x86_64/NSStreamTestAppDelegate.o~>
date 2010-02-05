@@ -1,0 +1,13 @@
+/Users/miminashi/MacDev/NSStreamTest/NSStreamTestAppDelegate.m: In function '-[NSStreamTestAppDelegate applicationDidFinishLaunching:]':
+/Users/miminashi/MacDev/NSStreamTest/NSStreamTestAppDelegate.m:22: error: 'sendTextObject' undeclared (first use in this function)
+/Users/miminashi/MacDev/NSStreamTest/NSStreamTestAppDelegate.m:22: error: (Each undeclared identifier is reported only once
+/Users/miminashi/MacDev/NSStreamTest/NSStreamTestAppDelegate.m:22: error: for each function it appears in.)
+/Users/miminashi/MacDev/NSStreamTest/NSStreamTestAppDelegate.m:22: error: 'SendText' undeclared (first use in this function)
+/Users/miminashi/MacDev/NSStreamTest/NSStreamTestAppDelegate.m: In function '-[NSStreamTestAppDelegate sendHelloButtonClicked:]':
+/Users/miminashi/MacDev/NSStreamTest/NSStreamTestAppDelegate.m:42: error: 'sendTextObject' undeclared (first use in this function)
+/Users/miminashi/MacDev/NSStreamTest/NSStreamTestAppDelegate.m: In function '-[NSStreamTestAppDelegate sendAuauButtonClicked:]':
+/Users/miminashi/MacDev/NSStreamTest/NSStreamTestAppDelegate.m:47: error: 'sendTextObject' undeclared (first use in this function)
+/Users/miminashi/MacDev/NSStreamTest/NSStreamTestAppDelegate.m: At top level:
+/Users/miminashi/MacDev/NSStreamTest/NSStreamTestAppDelegate.m:130: warning: incomplete implementation of class 'NSStreamTestAppDelegate'
+/Users/miminashi/MacDev/NSStreamTest/NSStreamTestAppDelegate.m:130: warning: method definition for '-sendHello:' not found
+/Users/miminashi/MacDev/NSStreamTest/NSStreamTestAppDelegate.m:130: warning: method definition for '-socketOrientation:' not found

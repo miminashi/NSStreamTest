@@ -1,0 +1,184 @@
+TNSStreamTest
+v7
+r0
+t286823088.809561
+cCheck dependencies
+cProcessInfoPlistFile /Users/miminashi/MacDev/NSStreamTest/build/Debug/NSStreamTest.app/Contents/Info.plist NSStreamTest-Info.plist
+cCopyStringsFile /Users/miminashi/MacDev/NSStreamTest/build/Debug/NSStreamTest.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/miminashi/MacDev/NSStreamTest/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NSStreamTest_Prefix-erdyhywonbiustbjabuujcndqarw/NSStreamTest_Prefix.pch.gch NSStreamTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NSStreamTest.build/Debug/NSStreamTest.build/Objects-normal/x86_64/main.o /Users/miminashi/MacDev/NSStreamTest/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NSStreamTest.build/Debug/NSStreamTest.build/Objects-normal/x86_64/NSStreamTestAppDelegate.o /Users/miminashi/MacDev/NSStreamTest/NSStreamTestAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B50402C00000000000000EE
+t1263550508
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/miminashi/MacDev/NSStreamTest/English.lproj/InfoPlist.strings
+c000000004B6831D6000000000000002D
+t1265119702
+s45
+
+N/Users/miminashi/MacDev/NSStreamTest/English.lproj/MainMenu.xib
+c000000004B6831D6000000000002BBA2
+t1265119702
+s179106
+
+N/Users/miminashi/MacDev/NSStreamTest/NSStreamTestAppDelegate.h
+c000000004B6839610000000000000170
+t1265121633
+s368
+i<Cocoa/Cocoa.h>
+
+N/Users/miminashi/MacDev/NSStreamTest/NSStreamTestAppDelegate.m
+c000000004B685B2100000000000002DA
+t1265130273
+s730
+i"NSStreamTestAppDelegate.h"
+
+N/Users/miminashi/MacDev/NSStreamTest/NSStreamTest_Prefix.pch
+c000000004B6831D6000000000000009B
+t1265119702
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/miminashi/MacDev/NSStreamTest/build/Debug/NSStreamTest.app
+t2
+s0
+
+N/Users/miminashi/MacDev/NSStreamTest/build/Debug/NSStreamTest.app/Contents/Info.plist
+t1265130273
+s901
+
+N/Users/miminashi/MacDev/NSStreamTest/build/Debug/NSStreamTest.app/Contents/MacOS/NSStreamTest
+t2
+s0
+
+N/Users/miminashi/MacDev/NSStreamTest/build/Debug/NSStreamTest.app/Contents/PkgInfo
+t1265130273
+s8
+
+N/Users/miminashi/MacDev/NSStreamTest/build/Debug/NSStreamTest.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1265130274
+s92
+
+N/Users/miminashi/MacDev/NSStreamTest/build/Debug/NSStreamTest.app/Contents/Resources/English.lproj/MainMenu.nib
+t1265130276
+s34460
+
+N/Users/miminashi/MacDev/NSStreamTest/build/NSStreamTest.build/Debug/NSStreamTest.build/Objects-normal/x86_64/NSStreamTest.LinkFileList
+c000000004B685B2100000000000000FB
+t1265130273
+s251
+
+N/Users/miminashi/MacDev/NSStreamTest/build/NSStreamTest.build/Debug/NSStreamTest.build/Objects-normal/x86_64/NSStreamTestAppDelegate.o
+t2
+s0
+
+N/Users/miminashi/MacDev/NSStreamTest/build/NSStreamTest.build/Debug/NSStreamTest.build/Objects-normal/x86_64/main.o
+t1265130288
+s4984
+
+N/Users/miminashi/MacDev/NSStreamTest/main.m
+c000000004B6831D60000000000000103
+t1265119702
+s259
+i<Cocoa/Cocoa.h>
+
+N/var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NSStreamTest_Prefix-erdyhywonbiustbjabuujcndqarw/NSStreamTest_Prefix.pch.gch
+t1265130288
+s54208272
+
+NNSStreamTest-Info.plist
+c000000004B6831D600000000000003EA
+t1265119702
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies286823073#286823073#0(0"0(0#1#0"23362758076543176#0"0#
+
+CCompileC build/NSStreamTest.build/Debug/NSStreamTest.build/Objects-normal/x86_64/NSStreamTestAppDelegate.o /Users/miminashi/MacDev/NSStreamTest/NSStreamTestAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s286823088.298958
+e286823088.809416
+r0
+xCompileC
+xbuild/NSStreamTest.build/Debug/NSStreamTest.build/Objects-normal/x86_64/NSStreamTestAppDelegate.o
+x/Users/miminashi/MacDev/NSStreamTest/NSStreamTestAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/miminashi/MacDev/NSStreamTest/NSStreamTestAppDelegate.m: In function '-[NSStreamTestAppDelegate sendHelloButtonClicked]':
+o/Users/miminashi/MacDev/NSStreamTest/NSStreamTestAppDelegate.m:27: error: expected ';' before 'NSLog'
+lSLF07#2@70"Compile /Users/miminashi/MacDev/NSStreamTest/NSStreamTestAppDelegate.m286823088#286823088#0(231"/Users/miminashi/MacDev/NSStreamTest/NSStreamTestAppDelegate.m: In function '-[NSStreamTestAppDelegate sendHelloButtonClicked]':/Users/miminashi/MacDev/NSStreamTest/NSStreamTestAppDelegate.m:27: error: expected ';' before 'NSLog'1(4@27"Expected ';' before 'NSLog'286823088#129#102#0(6@62"/Users/miminashi/MacDev/NSStreamTest/NSStreamTestAppDelegate.m286823073#27#0#27#0#19"expected * before *0(0#0#62"/Users/miminashi/MacDev/NSStreamTest/NSStreamTestAppDelegate.m4300903632#1566"    cd /Users/miminashi/MacDev/NSStreamTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/miminashi/MacDev/NSStreamTest/build/NSStreamTest.build/Debug/NSStreamTest.build/NSStreamTest-generated-files.hmap -I/Users/miminashi/MacDev/NSStreamTest/build/NSStreamTest.build/Debug/NSStreamTest.build/NSStreamTest-own-target-headers.hmap -I/Users/miminashi/MacDev/NSStreamTest/build/NSStreamTest.build/Debug/NSStreamTest.build/NSStreamTest-all-target-headers.hmap -iquote /Users/miminashi/MacDev/NSStreamTest/build/NSStreamTest.build/Debug/NSStreamTest.build/NSStreamTest-project-headers.hmap -F/Users/miminashi/MacDev/NSStreamTest/build/Debug -I/Users/miminashi/MacDev/NSStreamTest/build/Debug/include -I/Users/miminashi/MacDev/NSStreamTest/build/NSStreamTest.build/Debug/NSStreamTest.build/DerivedSources/x86_64 -I/Users/miminashi/MacDev/NSStreamTest/build/NSStreamTest.build/Debug/NSStreamTest.build/DerivedSources -include /var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NSStreamTest_Prefix-erdyhywonbiustbjabuujcndqarw/NSStreamTest_Prefix.pch -c /Users/miminashi/MacDev/NSStreamTest/NSStreamTestAppDelegate.m -o /Users/miminashi/MacDev/NSStreamTest/build/NSStreamTest.build/Debug/NSStreamTest.build/Objects-normal/x86_64/NSStreamTestAppDelegate.o1#
+
+CCompileC build/NSStreamTest.build/Debug/NSStreamTest.build/Objects-normal/x86_64/main.o /Users/miminashi/MacDev/NSStreamTest/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s286823088.278480
+e286823088.809098
+r1
+xCompileC
+xbuild/NSStreamTest.build/Debug/NSStreamTest.build/Objects-normal/x86_64/main.o
+x/Users/miminashi/MacDev/NSStreamTest/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/miminashi/MacDev/NSStreamTest/main.m286823088#286823088#0(0"0(0#0#43"/Users/miminashi/MacDev/NSStreamTest/main.m4300903632#1528"    cd /Users/miminashi/MacDev/NSStreamTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/miminashi/MacDev/NSStreamTest/build/NSStreamTest.build/Debug/NSStreamTest.build/NSStreamTest-generated-files.hmap -I/Users/miminashi/MacDev/NSStreamTest/build/NSStreamTest.build/Debug/NSStreamTest.build/NSStreamTest-own-target-headers.hmap -I/Users/miminashi/MacDev/NSStreamTest/build/NSStreamTest.build/Debug/NSStreamTest.build/NSStreamTest-all-target-headers.hmap -iquote /Users/miminashi/MacDev/NSStreamTest/build/NSStreamTest.build/Debug/NSStreamTest.build/NSStreamTest-project-headers.hmap -F/Users/miminashi/MacDev/NSStreamTest/build/Debug -I/Users/miminashi/MacDev/NSStreamTest/build/Debug/include -I/Users/miminashi/MacDev/NSStreamTest/build/NSStreamTest.build/Debug/NSStreamTest.build/DerivedSources/x86_64 -I/Users/miminashi/MacDev/NSStreamTest/build/NSStreamTest.build/Debug/NSStreamTest.build/DerivedSources -include /var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NSStreamTest_Prefix-erdyhywonbiustbjabuujcndqarw/NSStreamTest_Prefix.pch -c /Users/miminashi/MacDev/NSStreamTest/main.m -o /Users/miminashi/MacDev/NSStreamTest/build/NSStreamTest.build/Debug/NSStreamTest.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/miminashi/MacDev/NSStreamTest/English.lproj/MainMenu.xib
+s286823073.898127
+e286823076.689794
+r1
+xCompileXIB
+x/Users/miminashi/MacDev/NSStreamTest/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib286823073#286823076#0(0"0(0#0#63"/Users/miminashi/MacDev/NSStreamTest/English.lproj/MainMenu.xib4300903632#326"    cd /Users/miminashi/MacDev/NSStreamTest    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/miminashi/MacDev/NSStreamTest/build/Debug/NSStreamTest.app/Contents/Resources/English.lproj/MainMenu.nib /Users/miminashi/MacDev/NSStreamTest/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/miminashi/MacDev/NSStreamTest/build/Debug/NSStreamTest.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s286823073.829847
+e286823074.911538
+r1
+xCopyStringsFile
+x/Users/miminashi/MacDev/NSStreamTest/build/Debug/NSStreamTest.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings286823073#286823074#0(0"0(0#0#68"/Users/miminashi/MacDev/NSStreamTest/English.lproj/InfoPlist.strings4300903632#366"    cd /Users/miminashi/MacDev/NSStreamTest    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/miminashi/MacDev/NSStreamTest/build/Debug/NSStreamTest.app/Contents/Resources/English.lproj0#
+
+CLd /Users/miminashi/MacDev/NSStreamTest/build/Debug/NSStreamTest.app/Contents/MacOS/NSStreamTest normal x86_64
+r0
+
+CProcessInfoPlistFile /Users/miminashi/MacDev/NSStreamTest/build/Debug/NSStreamTest.app/Contents/Info.plist NSStreamTest-Info.plist
+s286823073.759003
+e286823073.829743
+r1
+xProcessInfoPlistFile
+x/Users/miminashi/MacDev/NSStreamTest/build/Debug/NSStreamTest.app/Contents/Info.plist
+xNSStreamTest-Info.plist
+lSLF07#2@31"Process NSStreamTest-Info.plist286823073#286823073#0(0"0(0#0#60"/Users/miminashi/MacDev/NSStreamTest/NSStreamTest-Info.plist23362758077513832#319"    cd /Users/miminashi/MacDev/NSStreamTest    builtin-infoPlistUtility NSStreamTest-Info.plist -genpkginfo /Users/miminashi/MacDev/NSStreamTest/build/Debug/NSStreamTest.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/miminashi/MacDev/NSStreamTest/build/Debug/NSStreamTest.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NSStreamTest_Prefix-erdyhywonbiustbjabuujcndqarw/NSStreamTest_Prefix.pch.gch NSStreamTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s286823076.690569
+e286823088.278287
+r1
+xProcessPCH
+x/var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NSStreamTest_Prefix-erdyhywonbiustbjabuujcndqarw/NSStreamTest_Prefix.pch.gch
+xNSStreamTest_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile NSStreamTest_Prefix.pch286823076#286823088#0(0"0(0#0#60"/Users/miminashi/MacDev/NSStreamTest/NSStreamTest_Prefix.pch4300903632#1431"    cd /Users/miminashi/MacDev/NSStreamTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/miminashi/MacDev/NSStreamTest/build/NSStreamTest.build/Debug/NSStreamTest.build/NSStreamTest-generated-files.hmap -I/Users/miminashi/MacDev/NSStreamTest/build/NSStreamTest.build/Debug/NSStreamTest.build/NSStreamTest-own-target-headers.hmap -I/Users/miminashi/MacDev/NSStreamTest/build/NSStreamTest.build/Debug/NSStreamTest.build/NSStreamTest-all-target-headers.hmap -iquote /Users/miminashi/MacDev/NSStreamTest/build/NSStreamTest.build/Debug/NSStreamTest.build/NSStreamTest-project-headers.hmap -F/Users/miminashi/MacDev/NSStreamTest/build/Debug -I/Users/miminashi/MacDev/NSStreamTest/build/Debug/include -I/Users/miminashi/MacDev/NSStreamTest/build/NSStreamTest.build/Debug/NSStreamTest.build/DerivedSources/x86_64 -I/Users/miminashi/MacDev/NSStreamTest/build/NSStreamTest.build/Debug/NSStreamTest.build/DerivedSources -c /Users/miminashi/MacDev/NSStreamTest/NSStreamTest_Prefix.pch -o /var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NSStreamTest_Prefix-erdyhywonbiustbjabuujcndqarw/NSStreamTest_Prefix.pch.gch0#
+
+CTouch /Users/miminashi/MacDev/NSStreamTest/build/Debug/NSStreamTest.app
+r0
+
